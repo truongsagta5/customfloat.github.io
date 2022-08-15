@@ -14434,7 +14434,6 @@ const skinData = {
         "rarityNumber": 2,
         "lowestRarity": true,
         "highestRarity": false
-      }
-    }
-    //update here
+      },
+    },
   }

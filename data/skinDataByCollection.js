@@ -19601,6 +19601,6 @@ const skinDataByCollection = {
         "R8 Revolver | Crazy 8",
         "SG 553 | Dragon Tech"
       ]
-    }
-  }
+    },
+  },
 }
