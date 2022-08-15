@@ -12020,7 +12020,7 @@ const skinDataBySkin = {
     "tradeup": [
       "M249 | Downtown",
       "P90 | Vent Rush",
-      "Dual Berettas | Flora Carnivora",
+      "Dual Berettas | Flora Carnivoraa",
       "R8 Revolver | Crazy 8",
       "SG 553 | Dragon Tech"
     ]
