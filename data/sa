@@ -1,9 +1,9 @@
 
  {
-    "skin": "Dual Berettas | Melondrama",
-    "collection": "DDreams & Nightmares Case",
+    "skin": "USP-S | Printstream",
+    "collection": "Recoil Case",
     "minFloat": 0,
-    "maxFloat": 1,
+    "maxFloat": 0.85,
     "rarity": "Covert",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_beware_light_large.3a4517010e237136f9cca5c593beedd94a2a0a15.png"
   },
@@ -12,7 +12,7 @@
 
   {
     "skin": "FAMAS | Rapid Eye Movement",
-    "collection": "DDreams & Nightmares Case",
+    "collection": "Recoil Case",
     "minFloat": 0,
     "maxFloat": 1,
     "rarity": "Classified",
@@ -25,7 +25,7 @@
 
   {
     "skin": "XM1014 | Zombie Offensive",
-    "collection": "DDreams & Nightmares Case",
+    "collection": "Recoil Case",
     "minFloat": 0,
     "maxFloat": 0.5,
     "rarity": "Restricted",
@@ -35,7 +35,7 @@
 -----------------------
   {
     "skin": "SCAR-20 | Poultrygeist",
-    "collection": "DDreams & Nightmares Case",
+    "collection": "Recoil Case",
     "minFloat": 0,
     "maxFloat": 0.57,
     "rarity": "Mil-Spec",

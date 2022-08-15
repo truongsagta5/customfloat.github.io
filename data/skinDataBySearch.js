@@ -32,6 +32,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_veneto_purple_light_large.4d9f7f4ed3034ce7d712c68640eb33f9f66f5daf.png"
   },
   {
+    "skin": "AK-47 | Ice Coaled",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.77,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cogthings_light_large.9b4678a70c315e5d60a203436b7a95cd4c5dcc89.png"
+  },
+  {
     "skin": "AK-47 | Black Laminate",
     "collection": "The Vertigo Collection",
     "minFloat": 0.06,
@@ -494,6 +502,14 @@ const skinDataBySearch = [
     "maxFloat": 1,
     "rarity": "Covert",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_asimov_light_large.32d9045f8a2bcd13ca18390cc9fd82026e7195ab.png"
+  },
+  {
+    "skin": "AWP | Chromatic Aberration",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_chroma_pink_light_large.afc69cbf51b04e24149744b6ee1d998cc18d3002.png"
   },
   {
     "skin": "AWP | Atheris",
@@ -1152,6 +1168,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_an_navy_light_large.87999cce45a03f8e83c28db98874810a5c990c10.png"
   },
   {
+    "skin": "Dual Berettas | Flora Carnivora",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dual_elites_evil_flora_light_large.3afd7e8e7cf008e4b38a206b79adae3b9d0d7757.png"
+  },
+  {
     "skin": "Dual Berettas | Melondrama",
     "collection": "DDreams & Nightmares Case",
     "minFloat": 0,
@@ -1286,6 +1310,14 @@ const skinDataBySearch = [
     "maxFloat": 0.4,
     "rarity": "Classified",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_broken_path_famas_light_large.5d45539735d838ffefd26467a8c767b71807c785.png"
+  },
+  {
+    "skin": "FAMAS | Meow 36",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_corp_meow_light_large.7e27ced9616b1a4808cad37e8c0c653b9c866f07.png"
   },
   {
     "skin": "FAMAS | CaliCamo",
@@ -1728,6 +1760,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_aa_fade_metallic_light_large.6910731d5c0d857052afbba2d24416156a6a96ba.png"
   },
   {
+    "skin": "Galil AR | Destroyer",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_destroyer_light_large.00308096b32ca8c6252ed241878ca1ec5e743c36.png"
+  },
+  {
     "skin": "Galil AR | Aqua Terrace",
     "collection": "The Rising Sun Collection",
     "minFloat": 0,
@@ -1894,6 +1934,14 @@ const skinDataBySearch = [
     "maxFloat": 1,
     "rarity": "Restricted",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_brass_light_large.c9fbb8483ca7b5859fafc3c8fe495b3d396205dd.png"
+  },
+  {
+    "skin": "Glock-18 | Winterized",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock_elite_camo_light_large.00d135c0b32cabd8b48692d11794c830a9a4de5c.png"
   },
   {
     "skin": "Glock-18 | Bullet Queen",
@@ -2118,6 +2166,14 @@ const skinDataBySearch = [
     "maxFloat": 0.75,
     "rarity": "Restricted",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.81173c5b61be806039e643a0c273e4dce33bd5ee.png"
+  },
+  {
+    "skin": "M249 | Downtown",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.65,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_downvote_light_large.9d51d5d89b1df07b160580b5b929f66f06bb8310.png"
   },
   {
     "skin": "M249 | Blizzard Marbleized",
@@ -2416,6 +2472,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4_asimov_light_large.af03179f3d43ff55b0c3d114c537eac77abdb6cf.png"
   },
   {
+    "skin": "M4A4 | Poly Mag",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_elite_tactical_light_large.015fd86aa32f4f0331aa1b7dc2571d89dbf38671.png"
+  },
+  {
     "skin": "M4A4 | Bullet Rain",
     "collection": "eSports 2014 Summer Case",
     "minFloat": 0.02,
@@ -2678,6 +2742,14 @@ const skinDataBySearch = [
     "maxFloat": 0.9,
     "rarity": "Mil-Spec",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_pixie_light_large.26950e30ef7e74e69920d67965c409b8b88902c8.png"
+  },
+  {
+    "skin": "MAC-10 | Monkeyflage",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_monkeyflage_light_large.8f24ab7b33719d43a7d4e0886cb3f79d506e7068.png"
   },
   {
     "skin": "MAC-10 | Amber Fade",
@@ -3400,6 +3472,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_an_navy_light_large.5dafc320a35bc04e03bbe0c4e4b1b293398d1bda.png"
   },
   {
+    "skin": "Negev | Drop Me",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_clear_sky_light_large.fc6f06d0f44e71207660f44b9b56021ce42a7e46.png"
+  },
+  {
     "skin": "Negev | Bulkhead",
     "collection": "The 2018 Nuke Collection",
     "minFloat": 0,
@@ -3816,6 +3896,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_asiimov_light_large.7ccf465f7dc55d2d960465d404c10cbc8c442cee.png"
   },
   {
+    "skin": "P250 | Visions",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_visions_light_large.a47ba6d191d3c734c3248667fb341a0e3f0c423e.png"
+  },
+  {
     "skin": "P250 | Bengal Tiger",
     "collection": "The Havoc Collection",
     "minFloat": 0.06,
@@ -4030,6 +4118,14 @@ const skinDataBySearch = [
     "maxFloat": 0.45,
     "rarity": "Industrial",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_twigs_light_large.32f929b66cdf34997897a48260a53946e786a531.png"
+  },
+  {
+    "skin": "P90 | Vent Rush",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_tangled_light_large.d1c6b11dc6876f1cf546281df8b8fac68a037518.png"
   },
   {
     "skin": "P90 | Asiimov",
@@ -4352,6 +4448,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_large.d56e81f58bb716ac6ca130bd41802bb8962dd0cf.png"
   },
   {
+    "skin": "R8 Revolver | Crazy 8",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_revolver_purple_elite_light_large.12a25ff5490bc9199a7ef870677455e42b9d8847.png"
+  },
+  {
     "skin": "R8 Revolver | Fade",
     "collection": "Revolver Case",
     "minFloat": 0,
@@ -4494,6 +4598,14 @@ const skinDataBySearch = [
     "maxFloat": 0.08,
     "rarity": "Mil-Spec",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_an_navy_light_large.5c45c1c33100694fc010a39ba92e3afab1d7c5e7.png"
+  },
+  {
+    "skin": "SG 553 | Dragon Tech",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyber_dragon_light_large.563b70babc5251fe5df218140582cd0aa576701e.png"
   },
   {
     "skin": "SG 553 | Bulldozer",
@@ -4784,6 +4896,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aa_fade_metallic_light_large.aa7418206953ed4b7707ddbc859bb1eb7bf6c9ab.png"
   },
   {
+    "skin": "Sawed-Off | Kiss♥Love",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_kisslove_light_large.55dc07f073e8c5ce65f21e4fb5957625db7ba266.png"
+  },
+  {
     "skin": "Sawed-Off | Spirit Board",
     "collection": "DDreams & Nightmares Case",
     "minFloat": 0,
@@ -5072,6 +5192,14 @@ const skinDataBySearch = [
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_white_fang_light_large.f63a10d5ee18e3045adfdcf963b9067b3b0a6b48.png"
   },
   {
+    "skin": "UMP-45 | Roadblock",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_roadblock_light_large.d6b1372a575db666a8a7f039a39c05597d6cb60b.png"
+  },
+  {
     "skin": "UMP-45 | Blaze",
     "collection": "The Mirage Collection",
     "minFloat": 0,
@@ -5222,6 +5350,14 @@ const skinDataBySearch = [
     "maxFloat": 0.45,
     "rarity": "Restricted",
     "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_ancient_bright_light_large.794efdc565345a758d9a6fd673db4a42e01d59c8.png"
+  },
+  {
+    "skin": "USP-S | Printstream",
+    "collection": "Recoil Case",
+    "minFloat": 0,
+    "maxFloat": 0.85,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_printstream_light_large.9f5bcd4f94db3d965b3b2e7c3aace470e9466380.png"
   },
   {
     "skin": "USP-S | Business Class",
